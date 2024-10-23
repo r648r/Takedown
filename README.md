@@ -1,13 +1,13 @@
-# 🤼 E-commerce Clone Takedown — Procedure
+# E-commerce Clone Takedown — Procedure
 
-🇬🇧 **English** · [🇫🇷 Français](README.fr.md)
+**English** · [Français](README.fr.md)
 
 A practical playbook for getting **fraudulent clones of an e-commerce site** taken
 down — the scam sites that copy a brand to phish customers or run card fraud.
 Covers the legal levers (DSA), the actors to contact, and a recon toolkit to find
 and document the clones.
 
-> ℹ️ The full step-by-step procedure, e-mail templates and scripts are written
+> The full step-by-step procedure, e-mail templates and scripts are written
 > **in French** — see **[README.md](README.md)**. This page is an overview.
 
 ## Methodology

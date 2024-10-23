@@ -1,6 +1,6 @@
-# 🤼 Procédure takedown clone e-commerce
+# Procédure takedown clone e-commerce
 
-[🇬🇧 English](README.md) · 🇫🇷 **Français**
+[English](README.md) · **Français**
 
 ## Vocabulaire
 
