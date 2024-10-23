@@ -1,5 +1,7 @@
 # 🤼 Procédure takedown clone e-commerce
 
+🇫🇷 **Français** · [🇬🇧 English](README.en.md)
+
 ## Vocabulaire
 
 - **DSA** (Digital Services Act) : Régulation européenne visant à sécuriser l'environnement en ligne et à encadrer les grandes plateformes numériques.
